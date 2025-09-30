@@ -1,2 +1,12 @@
 pydantic
 ipykernel
+
+
+# for Agentic Work-space
+
+langchain
+langgraph
+langchain-core
+langchain-community
+
+
