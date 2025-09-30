@@ -9,4 +9,6 @@ langgraph
 langchain-core
 langchain-community
 
-
+# to load env-variable
+python-dotenv
+langchain-groq # for groq
