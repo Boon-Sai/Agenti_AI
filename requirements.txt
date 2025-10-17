@@ -17,3 +17,6 @@ langchain-groq # for groq
 # Tools
 arxiv
 wikipedia
+
+# for langsmith debugging
+langgraph-cli[inmem] # inmem - in memory
